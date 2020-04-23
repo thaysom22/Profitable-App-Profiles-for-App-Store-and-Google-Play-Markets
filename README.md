@@ -1,2 +1,2 @@
 # Profitable-App-Profiles-for-App-Store-and-Google-Play-Markets
-DATAQUEST guided project 1
+Analyzing app profiles from the Apple Store and Google Play markets
